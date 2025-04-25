@@ -1,3 +1,0 @@
-/home/n.zelenkov/parallelki/build/CMakeFiles/sin_array_sum.dir
-/home/n.zelenkov/parallelki/build/CMakeFiles/edit_cache.dir
-/home/n.zelenkov/parallelki/build/CMakeFiles/rebuild_cache.dir
